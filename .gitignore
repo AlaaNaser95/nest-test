@@ -52,5 +52,4 @@ package-lock.json
 .ideasendgrid.env
 
 .prettierrc
-yarn.lock
 .eslintrc.js
